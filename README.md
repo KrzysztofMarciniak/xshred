@@ -2,6 +2,8 @@
 Expanded shred with recursion and interactive mode.
 
 run (`test.sh`) to create dummy files
+
+
 run (`sudo install.sh`) to copy xshred.sh to /bin/xshred.
 
 * Won't work.
